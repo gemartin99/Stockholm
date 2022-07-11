@@ -1,7 +1,7 @@
 # 🦠 Stockholm 
 
 ## Descripción
-Este proyecto consiste en la desarroyación de un programa malware hecho en C que afecta a sistemas basados en Linux. Ten cuidado con su
+Este proyecto consiste en el desarrollo de un programa malware hecho en C que afecta a sistemas basados en Linux. Ten cuidado con su
 uso ya que puedes encriptar ficheros no deseados y no poder desencriptarlos. Todos los ficheros que se ven afectados por [WannaCry](https://es.wikipedia.org/wiki/WannaCry) seran encriptados mediante [AES-256](https://es.wikipedia.org/wiki/Advanced_Encryption_Standard) agregando la extension .ft a los archivos.
 
 ## Uso
