@@ -11,3 +11,22 @@ uso ya que puedes encriptar ficheros no deseados y no poder desencriptarlos. Tod
 ◦ Cambiar el path en el fichero stockholm.c (lineas 194 && 299) para que la encriptacion y la desencriptacion se puedan hacer.
  
 ◦ Si quieres información sobre los comandos que debes usar para llevar a cabo la encriptacion y la desencriptacion deberas ejecutar el programa seguido de la flag -h o -help. Ejemplo-> ./stockholm -h 
+
+### Ejemplo de encriptación y desencriptación de un fichero
+
+![](https://github.com/gemartin99/Stockholm/blob/main/stockholm.gif)
+
+### Flags  🏳️
+
+```bash
+➤ -help o -h para mostrar la ayuda actual 🆘
+```
+```bash
+➤ -version o -v para mostrar la version del programa 🆔
+```
+```bash
+➤ -reverse o -r seguida de la clave introducida como argumento para revertir la infeccion ⏪
+```
+```bash
+➤ -silent o -s para que el programa no produzca ningun output 🔇
+```
